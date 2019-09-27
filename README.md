@@ -100,6 +100,8 @@ Given the information like mortgage details, borrowers related details and payme
 ## LeaderBoard Results
 ![enter image description here](https://lh3.googleusercontent.com/O19r9kC5vp9I642AE8orLDXDdX0seU4t4flzOcuPL0TLnkTeB_0uK_Py1vDpGzMrX1Xjy4duQjTq)
 
+## Total Participants- 3740
+
 Public Leaderboard
 ![enter image description here](https://lh3.googleusercontent.com/UBvwd1PgAXY671A41nLP_thOcDUMG7WFe9Afww_eXWZDGyrSBXgmf4MsaKBIKumTLoZoTfDrkBPw)
 
